@@ -1,0 +1,19 @@
+# ignore these directories.
+/.git
+/.oij
+/recipes
+/oij_examples
+/src
+/test_lib
+organize-imports-python-pkg.el
+
+# ignore generated files.
+*.elc
+
+# ignore example/test files.
+oij.config
+!default/oij.config
+*.oij
+
+# ignore video
+/video
