@@ -6,7 +6,7 @@
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; Description: Automatically organize imports in Python code.
 ;; Keyword: organize imports python handy eclipse
-;; Version: 0.0.1
+;; Version: 0.1.0
 ;; Package-Requires: ((emacs "25.1"))
 ;; URL: https://github.com/jcs-elpa/organize-imports-python
 
