@@ -1,4 +1,4 @@
-;;; organize-imports-python.el --- Automatically organize imports in Python code.  -*- lexical-binding: t; -*-
+;;; organize-imports-python.el --- Automatically organize imports in Python code  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2021  Shen, Jen-Chieh
 ;; Created date 2021-01-15 15:15:08
