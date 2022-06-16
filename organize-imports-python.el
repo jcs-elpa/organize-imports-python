@@ -4,11 +4,10 @@
 ;; Created date 2021-01-15 15:15:08
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
-;; Description: Automatically organize imports in Python code.
-;; Keyword: organize imports python handy eclipse
+;; URL: https://github.com/jcs-elpa/organize-imports-python
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "25.1"))
-;; URL: https://github.com/jcs-elpa/organize-imports-python
+;; Keywords: organize imports python handy eclipse
 
 ;; This file is NOT part of GNU Emacs.
 
