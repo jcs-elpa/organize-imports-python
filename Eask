@@ -3,7 +3,7 @@
          "Automatically organize imports in Python code")
 
 (website-url "https://github.com/jcs-elpa/organize-imports-python")
-(keywords "organize" "imports" "python" "handy" "eclipse")
+(keywords "convenience" "organize" "imports" "python" "eclipse")
 
 (package-file "organize-imports-python.el")
 
