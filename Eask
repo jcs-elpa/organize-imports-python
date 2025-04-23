@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "organize-imports-python"
          "0.1.0"
          "Automatically organize imports in Python code")
